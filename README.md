@@ -25,6 +25,7 @@ Built from Arch, themed by me, maintained by gremlins.
 - Welcome screen that roasts you if you install it on a Chromebook (Kidding. Mostly). 
 - Neofetch shows my **face**, not Fart Linux
 - Systemd because fuck you
+- zshut it bash is mid
 
 ---
 
