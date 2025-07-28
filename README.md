@@ -49,5 +49,5 @@ sudo mkarchiso -v .
 ## Are we fr dawg 
 
 Yes. Unfortunately. 
-This is also NOT rolling release, fuck you. I'm a student with no life. G e t   r e a l.  
+This is also NOT rolling release, fuck you. I'm a student with no life. G e t.  R e a l.  
 
