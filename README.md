@@ -1,12 +1,14 @@
-# GabeOS™
+# GabeOS
 
-**"An Arch-based distro forged in the void (Linux). Maintained with duct tape, spite, and love."**
+**An Arch-based distro forged in the void (Linux). Maintained with duct tape, spite, and love.**
+
+"Finally, I'm proud of you. Anyways go to Gentoo-" [OptimiDev](https://github.com/OptimiDEV)
 
 ---
 
 ## 💿 What Is This?
 
-GabeOS is a Linux distro remix with:
+GabeOS is an Arch Linux distro remix with:
 - 🖼️ Neofetch showing my ass
 - 💀 Calamares installer so you don't have to install it high
 - 🔮 Custom themes, splash screens, and more
@@ -39,7 +41,7 @@ Built from Arch, themed by me, maintained by gremlins.
 ## 🛠️ Build from Source
 
 ```bash
-git clone https://github.com/your-user/gabeos
+git clone https://github.com/thesomewhatyou/gabeos
 cd gabeos
 sudo mkarchiso -v .
 ```
