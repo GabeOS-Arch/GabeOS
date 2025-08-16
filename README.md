@@ -18,9 +18,13 @@ GabeOS is an Arch Linux distro remix with:
 
 You're gonna have to install Hyprland dots, configurations, all by yourself.
 I, Gabriel Piss Man, refuse to install dots for you.
-It's your own thing. It would be amazingly hard.
+It's your own thing. It would be amazingly hard to do it on MY end.
+This is why GNOME, is temporarily installed for you. You may UNINSTALL it at any given point in time. It is NOT a requirement.
+KDE versions of GabeOS may come out if time aligns. 
 
-Built from Arch, themed by me, maintained by gremlins.
+---
+
+Built from Arch, made by me, maintained by me (and the 14 people living in my repo).
 
 ---
 
@@ -31,6 +35,8 @@ Built from Arch, themed by me, maintained by gremlins.
 - Welcome screen that roasts you if you install it on a Chromebook (Kidding. Mostly). 
 - Neofetch shows my **face**, not Fart Linux
 - Systemd because fuck you
+- GRUB
+- Did I mention GRUB
 - zshut it bash is mid
 
 ---
