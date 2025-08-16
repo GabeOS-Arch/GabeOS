@@ -14,6 +14,12 @@ GabeOS is an Arch Linux distro remix with:
 - 🔮 Custom themes, splash screens, and more
 - 🧠 You've entered hell. Welcome ig
 
+## 🛠️ However... 
+
+You're gonna have to install Hyprland dots, configurations, all by yourself.
+I, Gabriel Piss Man, refuse to install dots for you.
+It's your own thing. It would be amazingly hard.
+
 Built from Arch, themed by me, maintained by gremlins.
 
 ---
