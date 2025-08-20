@@ -4,6 +4,10 @@
 
 "Finally, I'm proud of you. Anyways go to Gentoo-" [OptimiDev](https://github.com/OptimiDEV)
 
+[![Build ISO](https://github.com/GabeOS-Arch/GabeOS-Workflow-Dev/actions/workflows/build-iso.yml/badge.svg)](https://github.com/GabeOS-Arch/GabeOS-Workflow-Dev/actions/workflows/build-iso.yml)
+
+If this is failing, contact Gabriel immediately. 
+
 ---
 
 ## 💿 What Is This?
