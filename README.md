@@ -21,12 +21,19 @@ GabeOS is an Arch Linux distro remix with:
 ## 🛠️ However... 
 
 You're gonna have to install Hyprland dots, configurations, all by yourself.
+
 I, Gabriel Piss Man, refuse to install dots for you.
+
 It's your own thing. It would be amazingly hard to do it on MY end.
+
 This is why GNOME, is temporarily installed for you. You may UNINSTALL it at any given point in time. It is NOT a requirement.
+
 KDE versions of GabeOS may come out if time aligns. 
+
 Installing dots are SUPER easy. Check out the [Hyde Project](https://github.com/Hyde-project/hyde). It'll do the shit FOR you.
+
 Or, go insane and install the dots yourself. I don't blame you.
+
 Then, delete GNOME. 
 
 ---
