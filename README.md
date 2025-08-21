@@ -1,6 +1,6 @@
 # GabeOS
 
-**Deal with it. Or not. Your choice.**
+**Deal with it. Or don't. Your choice.**
 
 "Finally, I'm proud of you. Anyways go to Gentoo-" [OptimiDev](https://github.com/OptimiDEV)
 
