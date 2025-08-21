@@ -13,7 +13,7 @@ If this is probably fine if failing. If it's not fine GabeOS is dead and we've t
 ## 💿 What Is This?
 
 GabeOS is an Arch Linux distro remix with:
-- 🖼️ Neofetch showing my ass
+- 🖼️ Fastfetch funny
 - 💀 Calamares installer so you don't have to install it high
 - 🔮 Custom themes, splash screens, and more
 - 🧠 You've entered hell. Welcome ig
@@ -25,6 +25,9 @@ I, Gabriel Piss Man, refuse to install dots for you.
 It's your own thing. It would be amazingly hard to do it on MY end.
 This is why GNOME, is temporarily installed for you. You may UNINSTALL it at any given point in time. It is NOT a requirement.
 KDE versions of GabeOS may come out if time aligns. 
+Installing dots are SUPER easy. Check out the [Hyde Project](https://github.com/Hyde-project/hyde). It'll do the shit FOR you.
+Or, go insane and install the dots yourself. I don't blame you.
+Then, delete GNOME. 
 
 ---
 
@@ -42,6 +45,7 @@ Built from Arch, made by me, maintained by me (and the 14 people living in my re
 - GRUB
 - Did I mention GRUB
 - zshut it bash is mid
+- This is literally just Arch with drugs
 
 ---
 
