@@ -54,6 +54,8 @@ Built from Arch, made by me, maintained by me (and the 14 people living in my re
 
 ## 📥 Install
 
+To install, boot the ISO, which you can download [here.](https://blobbydablob.blob.core.windows.net/gabeos/GabeOS-2025.08.23-x86_64.iso) I used Azure, because I had free credits.
+
 **1. Boot the ISO**  
 **2. Calamares GUI will guide you**  
 **3. Reboot and say “thanks Gabe”**
