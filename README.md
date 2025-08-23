@@ -60,17 +60,7 @@ To install, boot the ISO, which you can download [here.](https://blobbydablob.bl
 **2. Calamares GUI will guide you**  
 **3. Reboot and say “thanks Gabe”**
 
-(You can also build the ISO yourself if you're chaotic)
-
 ---
-
-## 🛠️ Build from Source
-
-```bash
-git clone https://github.com/thesomewhatyou/gabeos
-cd gabeos
-sudo mkarchiso -v .
-```
 
 ## Are we fr dawg 
 
